@@ -1,10 +1,10 @@
-# ƒ†[ƒU[”FØƒAƒvƒŠƒP[ƒVƒ‡ƒ“iƒtƒƒ“ƒgƒGƒ“ƒhj
+# ãƒ¦ãƒ¼ã‚¶ãƒ¼èªè¨¼ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ï¼ˆãƒ•ãƒ­ãƒ³ãƒˆã‚¨ãƒ³ãƒ‰ï¼‰
 
-## ŠT—v
+## æ¦‚è¦
 
-‚±‚ÌƒvƒƒWƒFƒNƒg‚ÍAƒoƒbƒNƒGƒ“ƒh‚ÌAPI‚Æ˜AŒg‚µ‚Ä“®ì‚·‚éAReactƒx[ƒX‚Ìƒ†[ƒU[”FØƒVƒXƒeƒ€‚Å‚·Bƒ†[ƒU[“o˜^AƒƒOƒCƒ“A”FØó‘Ô‚Ì•\Ž¦A‚¨‚æ‚ÑƒƒOƒAƒEƒg‚ÌUI‚ð’ñ‹Ÿ‚µ‚Ü‚·B
+ã“ã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã¯ã€ãƒãƒƒã‚¯ã‚¨ãƒ³ãƒ‰ã®APIã¨é€£æºã—ã¦å‹•ä½œã™ã‚‹ã€Reactãƒ™ãƒ¼ã‚¹ã®ãƒ¦ãƒ¼ã‚¶ãƒ¼èªè¨¼ã‚·ã‚¹ãƒ†ãƒ ã§ã™ã€‚ãƒ¦ãƒ¼ã‚¶ãƒ¼ç™»éŒ²ã€ãƒ­ã‚°ã‚¤ãƒ³ã€èªè¨¼çŠ¶æ…‹ã®è¡¨ç¤ºã€ãŠã‚ˆã³ãƒ­ã‚°ã‚¢ã‚¦ãƒˆã®UIã‚’æä¾›ã—ã¾ã™ã€‚
 
-## ‹ZpƒXƒ^ƒbƒN
+## æŠ€è¡“ã‚¹ã‚¿ãƒƒã‚¯
 
 * **React**
 * **TypeScript**
@@ -12,30 +12,30 @@
 * **Redux Toolkit**
 * **Axios**
 
-## ‹@”\
+## æ©Ÿèƒ½
 
--   **ƒƒOƒCƒ“‰æ–Ê**: ƒ†[ƒU[–¼‚ÆƒpƒXƒ[ƒh‚ÅƒƒOƒCƒ“‚·‚éƒtƒH[ƒ€‚ð’ñ‹Ÿ‚µ‚Ü‚·B
--   **ƒ†[ƒU[î•ñ•\Ž¦**: ƒƒOƒCƒ“ŒãA”FØ‚³‚ê‚½ƒ†[ƒU[‚Ìî•ñ‚ð•\Ž¦‚µ‚Ü‚·B
--   **ƒƒOƒAƒEƒg‹@”\**: ƒƒOƒAƒEƒgƒ{ƒ^ƒ“‚ð‰Ÿ‚·‚ÆAƒZƒbƒVƒ‡ƒ“‚ð”jŠü‚µ‚Ü‚·B
+-   **ãƒ­ã‚°ã‚¤ãƒ³ç”»é¢**: ãƒ¦ãƒ¼ã‚¶ãƒ¼åã¨ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã§ãƒ­ã‚°ã‚¤ãƒ³ã™ã‚‹ãƒ•ã‚©ãƒ¼ãƒ ã‚’æä¾›ã—ã¾ã™ã€‚
+-   **ãƒ¦ãƒ¼ã‚¶ãƒ¼æƒ…å ±è¡¨ç¤º**: ãƒ­ã‚°ã‚¤ãƒ³å¾Œã€èªè¨¼ã•ã‚ŒãŸãƒ¦ãƒ¼ã‚¶ãƒ¼ã®æƒ…å ±ã‚’è¡¨ç¤ºã—ã¾ã™ã€‚
+-   **ãƒ­ã‚°ã‚¢ã‚¦ãƒˆæ©Ÿèƒ½**: ãƒ­ã‚°ã‚¢ã‚¦ãƒˆãƒœã‚¿ãƒ³ã‚’æŠ¼ã™ã¨ã€ã‚»ãƒƒã‚·ãƒ§ãƒ³ã‚’ç ´æ£„ã—ã¾ã™ã€‚
 
-## ƒZƒbƒgƒAƒbƒvŽè‡
+## ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—æ‰‹é †
 
-‚±‚ÌƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ðƒ[ƒJƒ‹‚Å“®‚©‚·‚É‚ÍAˆÈ‰º‚ÌŽè‡‚É]‚Á‚Ä‚­‚¾‚³‚¢B
+ã“ã®ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã‚’ãƒ­ãƒ¼ã‚«ãƒ«ã§å‹•ã‹ã™ã«ã¯ã€ä»¥ä¸‹ã®æ‰‹é †ã«å¾“ã£ã¦ãã ã•ã„ã€‚
 
-### 1. ‘O’ñðŒ
+### 1. å‰ææ¡ä»¶
 
-* Node.js (LTS„§)
-* npm ‚Ü‚½‚Í yarn
+* Node.js (LTSæŽ¨å¥¨)
+* npm ã¾ãŸã¯ yarn
 
-### 2. ƒoƒbƒNƒGƒ“ƒh‚Ì‹N“®
+### 2. ãƒãƒƒã‚¯ã‚¨ãƒ³ãƒ‰ã®èµ·å‹•
 
-‚±‚Ìƒtƒƒ“ƒgƒGƒ“ƒhƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ÍAƒoƒbƒNƒGƒ“ƒh‚ÌAPIƒT[ƒo[i`http://localhost:8080`j‚ª‰Ò“­‚µ‚Ä‚¢‚é‚±‚Æ‚ð‘O’ñ‚Æ‚µ‚Ü‚·Bæ‚É[ƒoƒbƒNƒGƒ“ƒhƒvƒƒWƒFƒNƒg](https://github.com/your-username/your-backend-repo)‚ð‹N“®‚µ‚Ä‚¨‚¢‚Ä‚­‚¾‚³‚¢B
+ã“ã®ãƒ•ãƒ­ãƒ³ãƒˆã‚¨ãƒ³ãƒ‰ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã¯ã€ãƒãƒƒã‚¯ã‚¨ãƒ³ãƒ‰ã®APIã‚µãƒ¼ãƒãƒ¼ï¼ˆ`http://localhost:8080`ï¼‰ãŒç¨¼åƒã—ã¦ã„ã‚‹ã“ã¨ã‚’å‰æã¨ã—ã¾ã™ã€‚å…ˆã«[ãƒãƒƒã‚¯ã‚¨ãƒ³ãƒ‰ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ](https://github.com/your-username/your-backend-repo)ã‚’èµ·å‹•ã—ã¦ãŠã„ã¦ãã ã•ã„ã€‚
 
-### 3. ˆË‘¶ŠÖŒW‚ÌƒCƒ“ƒXƒg[ƒ‹
+### 3. ä¾å­˜é–¢ä¿‚ã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
 
-ƒvƒƒWƒFƒNƒg‚Ìƒ‹[ƒgƒfƒBƒŒƒNƒgƒŠ‚ÅAˆÈ‰º‚ÌƒRƒ}ƒ“ƒh‚ðŽÀs‚µ‚Ü‚·B
+ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®ãƒ«ãƒ¼ãƒˆãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã§ã€ä»¥ä¸‹ã®ã‚³ãƒžãƒ³ãƒ‰ã‚’å®Ÿè¡Œã—ã¾ã™ã€‚
 
 ```bash
 npm install
-# ‚Ü‚½‚Í
+# ã¾ãŸã¯
 yarn install
