@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Log files
+*.log
+
+# Project-specific files
+# ここに機密情報を含むファイルを指定
+application.properties
+application.yml
+
+# IDE
+.idea
+*.iws
+*.iml
+*.ipr
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+.vscode/
+
+# Ignore for NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
