@@ -43,4 +43,6 @@ yarn install
 
 ### 4. フロントエンドの起動
 
+```bash
 npm start
+```
