@@ -42,7 +42,7 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
 spring.application.name=user-auth-api
 ```
 
-    - **`'YOUR_DB_PASSWORD_HERE'`** の部分は、ご自身で決めた強力なパスワードに置き換えてください。
+- **`'YOUR_DB_PASSWORD_HERE'`** の部分は、ご自身で決めた強力なパスワードに置き換えてください。
 
 ### 3. バックエンドの起動
 
