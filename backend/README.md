@@ -18,7 +18,31 @@
     FLUSH PRIVILEGES;
     ```
     - **`'YOUR_DB_PASSWORD_HERE'`** の部分は、ご自身で決めた強力なパスワードに置き換えてください。
-    
+
+3.  application.properties の作成
+-   /backend/src/main/resources/application.properties を作製して下さい。
+
+    ```txt
+    # Server Configuration
+server.port=8080
+
+# Database Connection
+spring.datasource.url=jdbc:mysql://localhost:3306/auth?allowPublicKeyRetrieval=true&useSSL=false
+spring.datasource.username=admin
+spring.datasource.password=YOUR_DB_PASSWORD_HERE
+spring.jpa.hibernate.ddl-auto=update
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+
+# JPA/Hibernate Configuration
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
+
+# Application Name
+spring.application.name=user-auth-api
+    ```
+    - **`'YOUR_DB_PASSWORD_HERE'`** の部分は、ご自身で決めた強力なパスワードに置き換えてください。
+
 ### 3. バックエンドの起動
 
 ```bash
