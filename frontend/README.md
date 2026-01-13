@@ -39,6 +39,7 @@
 npm install
 # または
 yarn install
+```
 
 ### 4. フロントエンドの起動
 
