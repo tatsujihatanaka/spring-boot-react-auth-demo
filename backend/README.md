@@ -22,7 +22,7 @@
 3.  application.properties の作成
 -   /backend/src/main/resources/application.properties を作製して下さい。
 
-    ```txt
+    ```
     # Server Configuration
 server.port=8080
 
