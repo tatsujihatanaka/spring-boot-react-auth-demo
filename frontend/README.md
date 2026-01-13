@@ -29,7 +29,7 @@
 
 ### 2. バックエンドの起動
 
-このフロントエンドアプリケーションは、バックエンドのAPIサーバー（`http://localhost:8080`）が稼働していることを前提とします。先に[バックエンドプロジェクト](https://github.com/your-username/your-backend-repo)を起動しておいてください。
+このフロントエンドアプリケーションは、バックエンドのAPIサーバー（`http://localhost:8080`）が稼働していることを前提とします。先に[バックエンドプロジェクト](https://github.com/tatsujihatanaka/spring-boot-react-auth-demo/blob/main/backend/README.md)を起動しておいてください。
 
 ### 3. 依存関係のインストール
 
