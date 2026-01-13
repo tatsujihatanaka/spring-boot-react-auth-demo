@@ -23,7 +23,7 @@
 -   /backend/src/main/resources/application.properties を作製して下さい。
 
     ```
-    # Server Configuration
+# Server Configuration
 server.port=8080
 
 # Database Connection
@@ -41,6 +41,7 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
 # Application Name
 spring.application.name=user-auth-api
     ```
+
     - **`'YOUR_DB_PASSWORD_HERE'`** の部分は、ご自身で決めた強力なパスワードに置き換えてください。
 
 ### 3. バックエンドの起動
